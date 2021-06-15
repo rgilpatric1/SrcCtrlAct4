@@ -6,7 +6,7 @@ namespace Activity4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Kevin Niu - Brookfield Central - N/A");
         }
     }
 }
