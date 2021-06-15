@@ -8,7 +8,7 @@ namespace Activity4
         {
             Console.WriteLine("Kevin Niu - Brookfield Central - N/A - Money");
             Console.WriteLine("Sumanth Kota - Brookfield Central High School - Panera Bread Gift Card");
-            Console.WriteLine(" - Brookfield Central - Plastic Bag");
+            Console.WriteLine("Benjamin Kim -Brookfield Central - Plastic Bag - A faster computer");
             Console.WriteLine("Mitchell Anderson - New Berlin West - Socks");
         }
     }
