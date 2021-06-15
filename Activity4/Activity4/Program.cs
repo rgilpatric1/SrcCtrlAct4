@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Activity4
 {
@@ -10,6 +10,7 @@ namespace Activity4
             Console.WriteLine("Sumanth Kota - Brookfield Central High School - Panera Bread Gift Card");
             Console.WriteLine("Benjamin Kim -Brookfield Central - Plastic Bag - A faster computer");
             Console.WriteLine("Mitchell Anderson - New Berlin West - Socks");
+            Console.WriteLine("Anything other than a macbook and a panera bread gift card");
         }
     }
 }
